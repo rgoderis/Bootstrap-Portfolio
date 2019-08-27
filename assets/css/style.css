@@ -1,3 +1,4 @@
+/* rotates profile image to display properly */
 #profile-image{
     transform: rotate(90deg)
 }
