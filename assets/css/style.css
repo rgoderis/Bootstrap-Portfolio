@@ -1,4 +1,6 @@
 /* rotates profile image to display properly */
 #profile-image{
-    transform: rotate(90deg)
+    transform: rotate(90deg);
+    max-height: 300px;
+    max-width: 300px;
 }
